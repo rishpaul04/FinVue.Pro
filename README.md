@@ -1,4 +1,4 @@
-Since you are submitting this for your finance dashboard assignment (due today at 10:00 PM), this README.md is tailored to highlight the technical maturity of your code. It focuses on the "Why" behind your engineering choices, which is exactly what evaluators look for.
+
 
 FinVue.Pro | High-Fidelity Financial Intelligence Workstation
 FinVue.Pro is a professional-grade, reactive financial dashboard designed to provide real-time liquidity insights through high-density data visualization and intuitive role-based management.
