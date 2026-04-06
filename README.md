@@ -1,5 +1,3 @@
-
-
 FinVue.Pro | High-Fidelity Financial Intelligence Workstation
 FinVue.Pro is a professional-grade, reactive financial dashboard designed to provide real-time liquidity insights through high-density data visualization and intuitive role-based management.
 
@@ -30,9 +28,9 @@ Audit Trail: Detailed ledger entries with automated semantic color-coding (Emera
 Optimistic UI: Instant local state updates to ensure a lag-free experience during data entry.
 
 🛠️ Technical Stack
-Frontend: React 18 (Vite)
+Framework: React 18 (Vite)
 
-Styling: Tailwind CSS (Modern depth-based UI/Neumorphism-lite)
+Styling: Tailwind CSS (Modern depth-based UI / Neumorphism-lite)
 
 State Management: React Hooks (useState, useEffect, useMemo)
 
@@ -42,7 +40,7 @@ Icons: Lucide-React
 
 Persistence: LocalStorage API for cross-session data retention.
 
-⚙️ Installation
+⚙️ Installation & Setup
 Clone the Repository:
 
 Bash
